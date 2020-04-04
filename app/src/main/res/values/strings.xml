@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Second Java</string>
+    <string name="Name">Name: Oru Chinenye</string>
+    <string name="Hobbies">My hobbies Like and Dislikes</string>
+    <string name="Email">Email: oruchineye12@gmail.com</string>
+    <string name="SlackId">SlackId: Nancychinny </string>
+</resources>

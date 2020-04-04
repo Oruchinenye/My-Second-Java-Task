@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hobbies">
+        <item>gist</item>
+        <item>sleeping</item>
+        <item>Swimming</item>
+        <item>adventuring</item>
+        <item>listening to music</item>
+        <item>poet</item>
+        <item>Honesty</item>
+        <item>faithfulness</item>
+        <item>well-mannered</item>
+        <item>free minded</item>
+        <item>lies</item>
+        <item>rigidity</item>
+        <item>over-seriouness</item>
+    </string-array>
+</resources>
